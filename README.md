@@ -26,3 +26,11 @@ The repository implements the following key steps:
 
 This project provides insights into the intersection of natural language processing and video understanding, leveraging state-of-the-art methods to tackle complex real-world challenges in egocentric vision.
 
+
+# Utilities 
+
+Span-based Localizing Network for Natural Language Video Localization: https://github.com/26hzhang/VSLNet
+
+tensorflow-glove: https://github.com/GradySimon/tensorflow-glove/tree/master
+
+EgocentricVision: https://github.com/EgocentricVision/EgocentricVision
