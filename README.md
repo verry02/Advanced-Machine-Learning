@@ -7,7 +7,7 @@ This repository contains my latest project for the exam "Advanced Machine Learni
 
 Link to the slides: https://bit.ly/4aaWCK6
 
-Link to this document: https://bit.ly/49UOmhK
+Link to the official document: https://bit.ly/49UOmhK
 
 
 The project focuses on addressing the Natural Language Queries (NLQ) task within egocentric videos, as outlined in the Ego4D benchmark.
